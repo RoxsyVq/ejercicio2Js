@@ -7,3 +7,4 @@ numero3 = prompt("Por favor, ingresa el tercer número");
 resultadosuma = parseInt(numero1) + parseInt(numero2) + parseInt(numero3);
 promedio= resultadosuma/3;
 alert(promedio);
+document.write("Su promedio es "+ promedio);
